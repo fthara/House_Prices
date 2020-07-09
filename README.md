@@ -1,4 +1,4 @@
-# housesPrices
+# House Prices
 
 Este projeto tem como objetivo prever os valores das casas na cidade de Ames em Iowa, nos Estados Unidos.
 
